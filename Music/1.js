@@ -74,9 +74,28 @@ const app = {
       image:
         "https://zmp3-photo.zadn.vn/cover/7/4/6/8/7468cda9226c9caa61730a7fe07151f3.jpg"
     },
+    {
+      name: "Bao Lâu Ta Lại Yêu Một Người",
+      singer: "Doãn Hiếu",
+      path: "music2//Bao Lâu Ta Lại Yêu Một Người l Doãn Hiếu (320 kbps).mp3",
+      image:
+        "image//bao lâu ta lại yêu một người.png"
+    },
+    {
+      name: "Dịu Dàng Em Đến",
+      singer: "ERIK",
+      path: "music2//ERIK - 'Dịu Dàng Em Đến' (Official Lyric Video) (320 kbps).mp3",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/b/f/6/3bf6a637783cfe6fab0fd75c43939964.jpg"
+    },
 
-
-
+    {
+      name: "Phải Chăng Em Đã Yêu",
+      singer: "JUKY SAN ft. REDT",
+      path: "music2//PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT _ OFFICIAL LYRICS VIDEO (320 kbps).mp3",
+      image:
+        "https://i.ytimg.com/vi/0K7ZuZbWXhQ/maxresdefault.jpg"
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
