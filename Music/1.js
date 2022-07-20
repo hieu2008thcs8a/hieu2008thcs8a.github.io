@@ -96,6 +96,27 @@ const app = {
       image:
         "https://i.ytimg.com/vi/0K7ZuZbWXhQ/maxresdefault.jpg"
     },
+    {
+      name: "Đi Về Nhà",
+      singer: "Đen x JustaTee",
+      path: "music2//Đen x JustaTee - Đi Về Nhà (M_V) (320 kbps).mp3",
+      image:
+        "https://i.ytimg.com/vi/vTJdVE_gjI0/maxresdefault.jpg"
+    },
+    {
+      name: "Trên Tình Bạn Dưới Tình Yêu",
+      singer: "MIN",
+      path: "music2//MIN - 'TRÊN TÌNH BẠN DƯỚI TÌNH YÊU' _ lyrics (320 kbps).mp3",
+      image:
+        "https://i.scdn.co/image/ab67616d0000b273c7a101d54f57aed7b650b74c"
+    },
+    {
+      name: "Anh Nhà Ở Đâu Thế",
+      singer: "AMEE",
+      path: "music2//ANH NHÀ Ở ĐÂU THẾ _ AMEE _ SOLO VERSION (320 kbps).mp3",
+      image:
+        "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/a/9/a/da9a8995a4a7fea43459f5881cb4af14.jpg"
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
